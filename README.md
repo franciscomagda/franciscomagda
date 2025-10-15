@@ -1,4 +1,5 @@
-## Welcome toFrancisco's Personal Page
+## HELLO THERE
+Welcome to Francisco's Personal Page
 
 ## About Me
 I am a student attending UC Merced. I am a second year in Electrical Engineering.
